@@ -1,0 +1,1 @@
+window.alert('Primeiro exercício do curso')
